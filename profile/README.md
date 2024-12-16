@@ -9,7 +9,7 @@
 <img src="https://i.ibb.co/bHP93gw/Photo-Real-a-magical-ancient-scroll-in-a-dark-temple-streak-of-7.jpg" />
 <img src="https://i.ibb.co/XWKh6tN/Photo-Real-a-magical-ancient-scroll-in-a-dark-temple-streak-of-2.jpg" />
 <img src="https://i.ibb.co/ZJ9Vb0Y/Photo-Real-the-daily-quote-0.jpg" />
-<img src="https://i.ibb.co/sFs2LTF/Photo-Real-the-daily-quote-2.jpg" />
+
 <img src="https://i.ibb.co/Ms2KVnb/Photo-Real-the-daily-quote-1.jpg" />
 <img src="https://i.ibb.co/LhkfN0S/Photo-Real-the-daily-quote-3.jpg" />
 </div>
